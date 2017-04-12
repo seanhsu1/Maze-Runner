@@ -1,0 +1,31 @@
+
+       @
+    XXXXXXXX
+           XX
+           
+  4  
+XXXXX          XXXXXXXXX
+
+
+ XXXXXXXXXXXXXXXXXaaaaaaXXXXXXXXXXXXXXX
+        X        X      X        X    X
+        X     0  X      X    X   X    X
+XXXXXXXXX     XXXX           X        X
+X       X                   XX        X
+X      1XXXXXXXXXXXXXXXXXXXXXXXXXX    X
+X      XX                    A        X
+X   X   X                    A        X
+X   XX  X   XXXXXXXXXXXXXXXXXXXXXXXXXXX
+X   X   X                             XXXXXXXXXXX
+X   X  XXXXXXXXXXXXXXXXXXXXXXXXXXXX   X    C   XX
+X   X                                 X    C   XX
+X   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   XX     XX
+X       B                                XXX      XX
+X       B              XXXXXXXXXXXXXXXXXXXXXXX      XX
+XXXXXXXXXXXXXXXXX    XXX                  X  XX      XX
+                                          X   XX  $  XX
+XXXbbbbbXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X    XXXXXXXX
+  X        X                      X       X
+  XXXXX    X                      X     2 X
+      X  3 X                      XXXXXXXXX
+      XXXXXX

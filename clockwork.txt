@@ -1,0 +1,21 @@
+           XXXXXXXXXXXXXXXXXXXXX
+           X   E  F  G         X
+           X   E  F  G         X
+           X 3 E  F  G   5     X
+       XXXXXXXXXXXXXXXXXXXXX   X
+       X       Y     L     XX  X
+       X       Y  0  L  1  XdddX
+       X       X XXX L XXX X   X
+       X   XXXXXmmmmmXnnnnnXeeXX
+       XqqqX   XX         XX   X
+       X   X   Z    2     XXcccX
+       XrrrX  XXXXXXXXXXXXXXX  X
+XXXXXXXX   X        A  C  B    X
+X I JK XsssX        A  C  B    X
+X I JK     XX     6 A  C  B 4 XX
+X XXXXXttttXXXXX XXXXXXXXXXXXXXX
+X   X      XXXXX  X
+X $ X      XXXXXX X
+XXXXX      XXXXX  X
+    X  @          X
+    XXXXXXXXXXXXXXX

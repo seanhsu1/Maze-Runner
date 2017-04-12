@@ -1,0 +1,19 @@
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X            X    X    C   X                K      X
+X       X    X         C   X                K   9  X
+X      XX    X        XX   X                XXXXXXXX                                XXXXXXXXXXXXXXX
+X       XX   XXXXX     X   X                       XXX                                 G          X
+X    @   X 0    A      X          3                  X                                 G     7    X
+X   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     XXXXXXXX                       XXXXXXXXXXXXXXX
+X        X    B              X      X          X            X          XXX                        X
+X        X    B              X      E          XXXXXXX      X            XX            6          X
+X        X   XXXXXX          D      E          X     XXXX   X                     XXXXXXXXXXXXX   X
+X                 X          D      E                 F     X                XX               X   X
+X          X      X          X      E       XXXXXXX   F     X               XXX               X   X
+X        XXX  1   X    2     X   4  X             XXXXXXXXXXXXXX      XXXXXXXXX               X 8 X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX                       I J     X               XXXXX
+                                              XXXXXX    5             I J  $  X
+                                                   XXXXXXXXXaaaaaaaaaXXXXXXXXXX
+ 

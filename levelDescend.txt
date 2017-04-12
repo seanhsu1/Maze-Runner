@@ -1,0 +1,33 @@
+           
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  X             X                                 X
+  X          $  X     @              0        2   X
+  X      XXXXXXXXXXXXXXXXXXXddddXXXXXXXXXXXXXXXXXXX
+  XX         XXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXX
+  XXX                XXXXXXX    XXXXXXXXXXXXXXXXXXX
+  XXXXXX             XXXXXXX    XXXXXXXXXXXXXXXXXXX
+  XXXXXXX            XXXXXXX    XXXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXX   XXXXXXX    XXXXXXXXXXXXXXXXXXX
+  X       E F G     XXXXXXXX    XXXXXXXXXXXXXXXXXXX
+  X       E F G     XXXXXXXX   XX                 X
+  X      XXXXXXXXXXXXXXXXXXX                      X
+  XX                 XXXXXXXXaaaXXXXXXXXXX        X
+  X       7   8  9   XXXXXXX    XXXXXXXXXX  4  3  X
+  X    XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXX
+  X         XXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXX
+  XX         XXXXXXXXXXXXXXXXbbbXXXXX             X
+  X           XXXXXXXXXXXXXX    XXXXX      5      X
+  XXXX            XXXXXXXXXX    XXXXXXXXXXXXXX    X
+  X  XX           XXXXXXXXXX   XX                 X
+  X         XX    XXXXXXXXXX                    XXX
+  X         XXX   XXXXXXXXXXXcccXXXXXXXXXXXXXXXXXXX
+  X         XX    XXXXXXXXXX    XXXXXXX      XXXXXX
+  X               XXXXXXXXXX    XXXXXXX      XXXXXX
+  X            XXXXXXXXXXXXX    XXXXXXXXX    XXXXXX
+  X            XXXXXXXXXXXXXXeeeXXXXXXXXX   XXXXXXX
+  X    X    XXXXXXXXXXXXXXXX                 XXXXXX
+  X   XX    XXXXXXXXXXXXXXXX                 XXXXXX
+  X  XX     D                    XXXXXXXXXXXXXXXXXX
+  X         D                      B        C     X
+  X         D                X     B        C  6  X
+  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,21 @@
+
+
+             XXXX
+XXXXXXXXXX  XX     
+X        D   X     
+X        D   X                                    $
+XXXXXX   XXXXXXXXXXXXXXXXXXXXXXXXXXXXaaaaaaaaaaaXXXXX
+X                                   X       
+XXXXXXX                  @          X
+X     X             XXXXXXXXXXX     X
+X     XXX                           X
+X              2       3            X
+X          XXXXXXXXXXXXXXXXX        X
+X          A       X       B        X
+X          A   0   X   1   B        X
+X    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X     C                             X
+X     C                             X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  4 X
+X                              XXXXXX
+X

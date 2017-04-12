@@ -1,0 +1,20 @@
+
+            0
+        XXXXXXXXX
+       XX      B
+        X   3  B
+   XX   XXXXXXXXX
+    XX  X       X
+        X    4  X
+       XXaaaXXXXXX
+        X       A
+        X  2    A
+     XXXXXXXXXXXX     XX
+     
+    @       5
+XXXXXXXXXXXXXXXXXXbbbXXXXXccccXXXXXX
+X            C          X         X
+X            C          X   XXXXXXX     
+X            C          X    D    X
+X $          C  8   7   X    D  6 X
+XXXddddddddddXXXXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,18 @@
+
+
+                               XXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  F       X
+X        K          H   G         F       X
+X XXXXXXXXXXXX 6 XXXXXXXXXXXXX 5 XXXX     X
+X          XXXXXXXXXXXXXXXXXXXXXXX        X
+X          A B   C   D E               XXXX
+X          A B   C   D E                  X
+X@  0 1 2  A B 3 C 4 D E        7         X
+XXXXXXXXXXXXXXXXXXXXXXXXXaaaaaaXXX    XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX        XbbbbbX
+            X   J  I    XXXXXXXXXX     X
+            X $ J  I  8                X
+            XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                                         
+
+  
